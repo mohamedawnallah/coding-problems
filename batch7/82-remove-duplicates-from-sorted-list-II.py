@@ -5,5 +5,4 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-	pass
- 
+	pass 
